@@ -1,7 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//这是 Program.cs 类
+
 using _01.static关键字用法;
 
-Console.WriteLine("Hello, World!");
+//自动调用静态构造函数
+StaticClass.ID= 200;
 
-Class1.ID = 100;
-Class1.GetID();
+//自动优先调用静态构造函数，无参构造函数
+Console.WriteLine("\n");
+NormalClass normalClass = new NormalClass();
