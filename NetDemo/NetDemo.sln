@@ -5,45 +5,45 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001.new关键字的用法", "001.new关键字的用法", "{C36C1428-CDA7-4325-98C8-2215269D3321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.new运算符", "01.new运算符\01.new运算符.csproj", "{36EBBBA3-18C3-4DB5-9DEC-9F22AD86AB29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.new运算符", "01.new运算符\01.new运算符.csproj", "{36EBBBA3-18C3-4DB5-9DEC-9F22AD86AB29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.new声明修饰符", "02.new声明修饰符\02.new声明修饰符.csproj", "{C67BD5D7-51EA-469B-9F4D-F365B7E40061}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.new声明修饰符", "02.new声明修饰符\02.new声明修饰符.csproj", "{C67BD5D7-51EA-469B-9F4D-F365B7E40061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.new约束", "03.new约束\03.new约束.csproj", "{F8175152-FCE5-4917-ABB9-7740F7BA8089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.new约束", "03.new约束\03.new约束.csproj", "{F8175152-FCE5-4917-ABB9-7740F7BA8089}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002.访问修饰符", "002.访问修饰符", "{7D06C35C-C2E0-4595-A71A-663499FF3AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.访问修饰符子程序", "01.访问修饰符子程序\01.访问修饰符子程序.csproj", "{CE014E83-3DF9-4851-8B99-AFC565F0B044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.访问修饰符子程序", "01.访问修饰符子程序\01.访问修饰符子程序.csproj", "{CE014E83-3DF9-4851-8B99-AFC565F0B044}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.访问修饰符子程序", "02.访问修饰符子程序\02.访问修饰符子程序.csproj", "{529FF370-E498-40C1-8287-2FFBC2B6F7F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.访问修饰符子程序", "02.访问修饰符子程序\02.访问修饰符子程序.csproj", "{529FF370-E498-40C1-8287-2FFBC2B6F7F9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "003.static关键字的用法", "003.static关键字的用法", "{85B058B2-A28A-4668-94E6-2494B2585C6D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "004.base关键字的用法", "004.base关键字的用法", "{42610E18-A2A4-4361-9AA6-1C64CB5E96F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.static关键字用法", "01.static关键字用法\01.static关键字用法.csproj", "{40AE29B9-2F96-4FA5-BEEB-F73B7D3D7733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.static关键字用法", "01.static关键字用法\01.static关键字用法.csproj", "{40AE29B9-2F96-4FA5-BEEB-F73B7D3D7733}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.base关键字用法", "01.base关键字用法\01.base关键字用法.csproj", "{636694BA-B309-4E48-B000-43F9A60CE82B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.base关键字用法", "01.base关键字用法\01.base关键字用法.csproj", "{636694BA-B309-4E48-B000-43F9A60CE82B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "005.this关键字的用法", "005.this关键字的用法", "{DA1F107B-1C6B-44E1-8B73-D6307F17AD99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.this关键字的用法", "01.this关键字的用法\01.this关键字的用法.csproj", "{CE027526-C565-4D34-AA5F-780E58E1740D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.this关键字的用法", "01.this关键字的用法\01.this关键字的用法.csproj", "{CE027526-C565-4D34-AA5F-780E58E1740D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "006.go关键字的用法", "006.go关键字的用法", "{81D299A2-8B99-4414-87FF-71C7601F5D5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006.go关键字的用法", "006.go关键字的用法\006.go关键字的用法.csproj", "{3DE82B8D-A27B-4F25-8E8F-CE0DD979344C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006.go关键字的用法", "006.go关键字的用法\006.go关键字的用法.csproj", "{3DE82B8D-A27B-4F25-8E8F-CE0DD979344C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "007.抽象类和接口的区别", "007.抽象类和接口的区别", "{8ED7244B-7822-4131-9E63-0025835263FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007.抽象类和接口的区别", "007.抽象类和接口的区别\007.抽象类和接口的区别.csproj", "{8E98D598-51F5-4ECC-B9DA-2EC421AD889C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007.抽象类和接口的区别", "007.抽象类和接口的区别\007.抽象类和接口的区别.csproj", "{8E98D598-51F5-4ECC-B9DA-2EC421AD889C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "008.泛型", "008.泛型", "{60CAA843-6952-452D-BE09-DA7BF16B7161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008.泛型", "008.泛型\008.泛型.csproj", "{FEE1883C-E41E-48A5-B1F5-0EB241A60E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008.泛型", "008.泛型\008.泛型.csproj", "{FEE1883C-E41E-48A5-B1F5-0EB241A60E9E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "009.单例模式", "009.单例模式", "{3BA70636-D8E0-46F6-AE42-69B619D64D36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "c#中的单例模式\单例模式.csproj", "{BB075DEF-69A0-44A2-8072-1B79F1CE97E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009.单例模式", "c#中的单例模式\009.单例模式.csproj", "{BB075DEF-69A0-44A2-8072-1B79F1CE97E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
