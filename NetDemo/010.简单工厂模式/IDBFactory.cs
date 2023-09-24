@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace _010.简单工厂模式
 {
+    /// <summary>
+    /// 数据库操作接口类
+    /// </summary>
     interface IDBFactory
     {
         /// <summary>
