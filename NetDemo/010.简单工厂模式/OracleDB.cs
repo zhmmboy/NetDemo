@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _010.简单工厂模式
 {
+    /// <summary>
+    /// OracleDB实现类
+    /// </summary>
     internal class OracleDB : IDBFactory
     {
         public int Delete()

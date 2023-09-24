@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _010.简单工厂模式
 {
+    /// <summary>
+    /// MySqlDB实现类
+    /// </summary>
     internal class MySqlDB : IDBFactory
     {
         public int Delete()

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _010.简单工厂模式
 {
+    /// <summary>
+    /// 数据库枚举类型
+    /// </summary>
     internal enum DBTypeEnum
     {
         /// <summary>

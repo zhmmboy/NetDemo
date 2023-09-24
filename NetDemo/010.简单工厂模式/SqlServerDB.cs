@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace _010.简单工厂模式
 {
+    /// <summary>
+    /// SqlServerDB实现类
+    /// </summary>
     internal class SqlServerDB : IDBFactory
     {
         public int Delete()
