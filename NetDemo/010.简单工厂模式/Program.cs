@@ -2,6 +2,9 @@
 
 using _010.简单工厂模式;
 
+Console.WriteLine("这是《_010.简单工厂模式》演示");
+Console.WriteLine("\n");
+
 //调用SqlServer数据库实例
 IDBFactory sqlServerDBFactory = DBFactory.GetInstance(DBTypeEnum.SQLSERVER);
 sqlServerDBFactory.Save();
